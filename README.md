@@ -21,3 +21,6 @@ Bu projede, Bilet.com'dan çekilen 50 adet Ajet müşteri yorumu kullanılarak T
 2. Anahtar kelimelerle kategori sınıflandırması yapıldı
 3. BERT tabanlı Türkçe NLP modeli ile sentiment analizi uygulandı
 4. Pulse skorları hesaplandı ve grafikle görselleştirildi
+
+## Görselleştirme
+![image](https://github.com/user-attachments/assets/098b61f9-3014-4c21-a915-90ce9caa45e4)
